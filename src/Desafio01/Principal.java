@@ -17,6 +17,5 @@ public class Principal {
         for (Principal index: lista) {
             System.out.println(index);
         }
-
     }
 }
