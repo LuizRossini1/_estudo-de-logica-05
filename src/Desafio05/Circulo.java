@@ -3,6 +3,12 @@ exemplo, Circulo e Quadrado. Em seguida, crie uma lista de formas (objetos da in
 para calcular e imprimir a área de cada forma. */
 package Desafio05;
 
-public class Circulo {
+public class Circulo implements Forma {
 
+
+    @Override
+    public double calcularArea() {
+
+        return 0;
+    }
 }
