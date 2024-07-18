@@ -1,6 +1,6 @@
 /* 3 - Modifique o Exercício 2 para incluir uma verificação usando instanceof para garantir
 que o objeto seja do tipo correto antes de fazer o casting. */
-package Desafio02;
+package Desafio02e03;
 
 public class Principal {
     public static void main(String[] args) {
